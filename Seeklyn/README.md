@@ -26,4 +26,4 @@ ___
 # Installation
 
 - You can install or use it by :
-- `wget https://github.com/Klyxen/Pra3tice/Seeklyn/raw/main/mainseek.py`
+- `wget https://github.com/Klyxen/Pra3tice/raw/main/Seeklyn/mainseek.py`
