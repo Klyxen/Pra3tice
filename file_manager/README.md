@@ -42,5 +42,5 @@ ___
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Pra3tice/file_manager/fm.py
+   git clone https://github.com/Pra3tice/file_manager/raw/main/fm.py
    ```
