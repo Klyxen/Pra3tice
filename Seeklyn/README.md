@@ -21,3 +21,9 @@ Make sure to install the following libraries before running the script:
 You can install the necessary libraries by running the following command:
 ```bash
 pip install phonenumbers geopy timezonefinder colorama
+```
+___
+# Installation
+
+- You can install or use it by :
+- `wget https://github.com/Klyxen/Pra3tice/Seeklyn/raw/main/mainseek.py`
