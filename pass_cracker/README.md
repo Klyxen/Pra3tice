@@ -32,8 +32,8 @@ ___
 
 ### 1. **Download the script from GitHub** :
    - ```
-     wget https://github.com/Klyxen/Pra3tice/blob/main/pass_cracker/main.py
-     wget https://github.com/Klyxen/Pra3tice/blob/main/pass_cracker/pin_cracker.py
+     wget https://github.com/Klyxen/Pra3tice/raw/main/pass_cracker/main.py
+     wget https://github.com/Klyxen/Pra3tice/raw/main/pass_cracker/pin_cracker.py
      ```
 
 ### 3. **Run the script**:
