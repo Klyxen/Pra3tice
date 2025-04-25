@@ -30,36 +30,18 @@ ___
 
 # How to Use:
 
-### 1. **Download the script from GitHub**:
-   - You can either **clone** the repository or **download** the ZIP file.
-   
-   **To clone** the repository:
-   - Make sure you have [Git](https://git-scm.com/) installed.
-   - Open your terminal and run:
-     ```bash
-     git clone https://github.com/your-username/password-pin-cracker.git
-     ```
-   - Navigate to the folder where the script was cloned:
-     ```bash
-     cd password-pin-cracker
-     ```
-
-   **To download as a ZIP**:
-   - Go to the [GitHub repository page](https://github.com/your-username/password-pin-cracker).
-   - Click the green **"Code"** button and then select **"Download ZIP"**.
-   - Extract the ZIP file to your preferred location.
-
-### 2. **Open your terminal**:
-   - Navigate to the directory where the script is located using the `cd` command:
-     ```bash
-     cd /path/to/script
+### 1. **Download the script from GitHub** :
+   - ```
+     wget https://github.com/Klyxen/Pra3tice/blob/main/pass_cracker/main.py
+     wget https://github.com/Klyxen/Pra3tice/blob/main/pass_cracker/pin_cracker.py
      ```
 
 ### 3. **Run the script**:
    - Make sure you have Python 3 installed. If not, you can download it from [here](https://www.python.org/downloads/).
    - Run the script with the following command:
      ```bash
-     python password_pin_cracker.py
+     python main.py
+     python pin_cracker.py
      ```
 
 ### 4. **Input the password or PIN**:
