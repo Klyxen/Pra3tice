@@ -5,7 +5,7 @@ from termcolor import colored
 import random
 import string
 
-print(colored("________ File exe ________", "red"))
+print(colored("________ File Manager ________", "red"))
 
 #| • 'new' = store data | • 'check' = check data | • 'update' = update data | • 'delete' = delete data | • 'all' = show all data names | • 'cf' = create new folder | • 'cd' = navigate to folder | • 'cd ..' = go back | • 'list' = list all folders | • 'del' = delete folder | • 'exit' = quit | :
 
